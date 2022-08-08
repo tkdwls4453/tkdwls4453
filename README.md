@@ -1,10 +1,12 @@
-<div align="center">
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sangjin%20Yoon&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
 
+<div align="center">
 
 # Backend Developer 
+
 
 <br/>
     
@@ -17,6 +19,10 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 
-
 <br/>
+    
+
+[![Sangjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkdwls4453)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdwls4453)](https://solved.ac/tkdwls4453/)
    
