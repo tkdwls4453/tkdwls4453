@@ -28,6 +28,4 @@
     
 
 [![Sangjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkdwls4453)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdwls4453)](https://solved.ac/tkdwls4453/)
    
